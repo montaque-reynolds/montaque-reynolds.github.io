@@ -1,0 +1,3 @@
+# Website Description
+
+This is the course website for PHIL 1700. Phil 1700 invites students to explore enduring philosophical questions and to reflectively evaluate the various answers given them by thinkers from a range of social, historical, and religious contexts. Students will tackle ultimate questions in a range of philosophical domains, including issues such as the nature of self and ultimate reality, morality and human meaning, rationality and the pursuit of truth. The aim of the course is to give students an opportunity to critically examine their own beliefs and commitments in dialogue with each other and with great thinkers past and present. (Offered Fall, Spring, and Summer)
