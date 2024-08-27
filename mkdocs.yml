@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: "PHIL 1700 The Examined Life: Ultimate Questions"
-site_url: https://mydomain.org/mysite
-repo_url: https://github.com/montaque-reynolds/mkdocs-material
+site_url: https://lccc-phi-240-course-website.netlify.app/
+repo_url: https://github.com/montaque-reynolds/lccc-phi-240-course-website
 theme:
   features:
     - navigation.instant
