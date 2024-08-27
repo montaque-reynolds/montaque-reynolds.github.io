@@ -32,5 +32,5 @@ discord: `@monty_reynolds`
 
 Office Hours:
 
-* I will make time during class for questions on assignments etc.
+I will make time during class for questions on assignments etc.
 
