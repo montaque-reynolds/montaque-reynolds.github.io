@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Week 2 - Religion and Global Ethics
 
 ## Religion and Global Ethics

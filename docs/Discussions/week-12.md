@@ -1,4 +1,4 @@
-# Week 12, Equality and Discrimination
+# Week 12 - Equality and Discrimination
 
 ##### 13.1 Describe the principle of equality and apply it to the concerns of social justice.
 

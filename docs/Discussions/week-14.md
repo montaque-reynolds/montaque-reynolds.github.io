@@ -1,4 +1,4 @@
-# Week 14, Individual Morality
+# Week 14 - Individual Morality
 
 ### Sexual Morality
 

@@ -1,4 +1,4 @@
-# Week 9, Caring
+# Week 9 - Caring
 
 ## Feminist Theought and the Ethics of Care
 

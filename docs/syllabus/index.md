@@ -1,7 +1,13 @@
 # Course Information
 
-This site is for sections of PHIL 1700 taught by Assistant Professor "Montaque Reynolds" "https://montaque-reynolds.com".
+Course Number: PHI 240 CONTEMPORARY MORAL PROBLEMS (ETHICS) (IAI: H4 904)
 
+Course Meeting Times: Tuesdays 3:10-6:50
+
+Location:
+Taught by "Montaque Reynolds" "https://montaque-reynolds.com".
+
+Times:
 #### Course Meeting Times
 
 PHIL 1700-07: Mon, Wed 3:10-4:25

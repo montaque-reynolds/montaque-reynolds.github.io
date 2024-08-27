@@ -1,4 +1,4 @@
-# Week 8, Virtue Ethics
+# Week 8 - Virtue Ethics
 
 ##### 8.1 Explain how virtue ethics differs from other approaches to ethics.
 

@@ -1,28 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/about/index.html</loc>
-         <lastmod>2024-08-14</lastmod>
+         <loc>https://mydomain.org/mysite/index.html</loc>
+         <lastmod>2024-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/about/01-meeting.html</loc>
-         <lastmod>2024-08-14</lastmod>
+         <loc>https://mydomain.org/mysite/About/Acknowledgements.html</loc>
+         <lastmod>2024-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/about/02-blah.html</loc>
-         <lastmod>2024-08-14</lastmod>
+         <loc>https://mydomain.org/mysite/About/Course_Description.html</loc>
+         <lastmod>2024-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/meetings/index.html</loc>
-         <lastmod>2024-08-14</lastmod>
+         <loc>https://mydomain.org/mysite/About/Course_Objectives.html</loc>
+         <lastmod>2024-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/meetings/02-meeting.html</loc>
-         <lastmod>2024-08-14</lastmod>
+         <loc>https://mydomain.org/mysite/Discussions/week-01.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-02.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-03.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-04.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-05.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-06.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-07.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-08.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-09.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-10.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-11.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-12.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-13.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-14.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Discussions/week-15.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/index.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/01-instructor-information.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/02-communication.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/03-learning.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/04-required-materials-equipment.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/05-evaluation-grading.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/06-attendance.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/06-device-policy.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/07-academic-honesty-integrity.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/08-disability-accommodations.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/09-title-ix.html</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/syllabus/10-generative-ai.html</loc>
+         <lastmod>2024-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -2,55 +2,33 @@
 comments: true
 ---
 
-## Week 1 - Ethics and Ethical Reasoning
+# Week 1 Ethics and Ethical Reasoning
 
-## Meta
+<style>
+.button {
+  border: 2px solid black;
+  background-color: #808080;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+</style>
 
-## Course Introduction
+<a href="https://montaque-reynolds.com/teaching" target="_blank"><button class="button">Syllabus</button></a>
 
-## Key Topics
+<a href="https://www.google.com/" target="_blank"><button>Next</button></a>
 
 ## Ethics
 
-### Analytical and Continental Philosophy
+##### Analytical and Continental Philosophy
 
-### Discourse, Semantics, and Communication
-
-#### Why Study Ethics?
-
-#### What is Ethics?
-
-#### Normative Ethics vs. Metaethics
-
-#### Ethical and Other Types of Evaluation
-
-#### Sociobiology and the Naturalistic Fallacy
-
-#### Ethical Terms
-
-#### Ethics and Reasons
-
-#### Intuitionism, Emotivism, Subjectivism, Objectivism
-
-#### Instrumental and Instrinsic Goods
-
-#### Ethical Reasoning and Arguments
-
-#### The Structure of Ethical Reasoning and Argument
-
-#### Evaluating and Making Good Arguments
-
-#### Ethical Theory
-
-#### Types of Ethical Theory
-
-#### Critical Theory of Ethics
-
-#### Can Ethics be Taught?
-
-#### Chapter Summary
-
-## Resources
+##### Discourse, Semantics, and Communication
 
 ### Readings
 

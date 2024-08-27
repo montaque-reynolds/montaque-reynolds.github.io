@@ -1,11 +1,36 @@
 # Instructor Information
 
-My name is Montaque Reynolds. I am a fifth year PhD Candidate in the Department of Philosophy at Saint Louis University.
+## Contact
 
-I am primarily interested in moral and social epistemology. This is an area of philosophy that deals primarily with questions about how we know right from wrong. My research focuses on the ways in which narratives are conducive to community.
+<style>
+.button {
+  border: 2px solid black;
+  background-color: #808080;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+</style>
 
-Narratives shape our self-identity and infuse our lives with meaning, thus constituting a key component of psychological development. In my research, I demonstrate that narrative also enhances emotional bonds among a community’s members. I argue that narratives are crucial to culture, identity, and community, each of which are essential for well-being and as such, are a source of moral knowledge.
+##### Instructor
 
-# Contact
+<a href="https://montaque-reynolds.com" target="_blank">Montaque Reynolds</a>
 
-I can be reached at my email address, montaque.reynolds@slu.edu.
+Office: Hall
+
+Email: montaque.reynolds@slu.edu
+
+GitHub: `@montaque-reynolds`
+
+discord: `@monty_reynolds`
+
+Office Hours:
+
+* I will make time during class for questions on assignments etc.
+

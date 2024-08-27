@@ -5,7 +5,7 @@ output:
 runtime: shiny_prerendered
 ---
 
-# 6 Deontological Ethics
+# Week 6 - Deontological Ethics
 
 ## Learning Outcomes
 

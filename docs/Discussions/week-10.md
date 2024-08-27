@@ -1,4 +1,4 @@
-# Week 10, Abortion and Euthanasia
+# Week 10 - Abortion and Euthanasia
 
 ##### 11.1 Explain the conflict between pro-life and pro-choice points of view.
 

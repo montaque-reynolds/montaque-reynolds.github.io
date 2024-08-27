@@ -1,4 +1,4 @@
-# Week 7, Natural Law and Human Rights
+# Week 7 - Natural Law and Human Rights
 
 ##### 7.1 Explain how natural law theory is related to the law of peoples and norms of international law.
 

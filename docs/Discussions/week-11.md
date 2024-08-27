@@ -1,4 +1,4 @@
-# Week-11, Biotechnology and Bioengineering
+# Week 11 - Biotechnology and Bioengineering
 
 ##### 12.1 Explain how the difference between a therapy and an enhancement can be used to assess different examples of biotechnology and bioengineering.
 

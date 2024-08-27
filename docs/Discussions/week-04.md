@@ -4,7 +4,7 @@ output:
     keep_md: true
 ---
 
-# Week 4 Egoism, Altruism, and the Social Contract
+# Week 4 - Egoism, Altruism, and the Social Contract
 
 ### Empathy, Compassion, and Love
 ### The Debate about Egoism and Altruism

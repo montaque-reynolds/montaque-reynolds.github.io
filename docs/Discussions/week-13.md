@@ -1,4 +1,4 @@
-# Week 13, Justice
+# Week 13 - Justice
 
 ### Economic Justice
 

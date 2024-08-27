@@ -1,4 +1,4 @@
-# 5 Utilitarianism
+# Week 5 - Utilitarianism
 
 ##### 5.1 Explain the difference between Utilitarianism and egoism as kinds of consequentialism
 
