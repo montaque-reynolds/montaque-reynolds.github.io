@@ -1,5 +1,25 @@
 # Course Information
 
+Download a copy of the syllabus here:
+
+<style>
+.button {
+  border: 2px solid black;
+  background-color: #808080;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+</style>
+
+<a href="https://lccc-phi-240-syllabus.netlify.app/_main.docx" target="_blank"><button class="button">Syllabus</button></a>
+
 Course Number: PHI 240 CONTEMPORARY MORAL PROBLEMS (ETHICS) (IAI: H4 904)
 
 Course Meeting Times: Tuesdays 3:10-6:50

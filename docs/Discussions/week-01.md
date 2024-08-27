@@ -20,7 +20,7 @@ comments: true
 }
 </style>
 
-<a href="https://montaque-reynolds.com/teaching" target="_blank"><button class="button">Syllabus</button></a>
+<a href="https://lccc-phi-240-syllabus.netlify.app/_main.docx" target="_blank"><button class="button">Syllabus</button></a>
 
 <a href="https://www.google.com/" target="_blank"><button>Next</button></a>
 
