@@ -20,15 +20,25 @@ comments: true
 }
 </style>
 
-<a href="https://lccc-phi-240-syllabus.netlify.app/_main.docx" target="_blank"><button class="button">Syllabus</button></a>
-
-<a href="https://www.google.com/" target="_blank"><button>Next</button></a>
-
 ## Ethics
+
+### The Good Life
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-oJs5u_GAYA?si=DAXk2u-7FCm1M_n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VFPBf1AZOQg?si=zQcIju1c0LgZvq8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EaGTzaAsq7Y?si=jxqr1hOfcBtmasCe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Analytical and Continental Philosophy
 
 ##### Discourse, Semantics, and Communication
+
+### Some Resources
+
+https://philpapers.org/browse/ethics
+
+<embed type="text/html" src="https://philpapers.org/browse/ethics" width="700" height="500">
 
 ### Readings
 
@@ -45,3 +55,19 @@ comments: true
 ##### Reading 1-5: Ethics, Mores, and Race
 
 ## Review Exercises
+
+1. Write one paragraph answer to the question of "what is ethics?"
+2. Write one paragraph answer to the question of "why should we study ethics?"
+
+<a href="https://lccc-phi-240-syllabus.netlify.app/_main.docx" target="_blank"><button class="button">Syllabus</button></a>
+
+And the
+
+<a href="https://lccc-phi-240-syllabus.netlify.app/" target="_blank"><button class="button">Syllabus Site</button></a>
+
+#### Course Websites
+
+https://lccc-phi-240-course-website.netlify.app/discussions/week-01
+
+<embed type="text/html" src="https://lccc-phi-240-course-website.netlify.app/discussions/week-01" width="700" height="500">
+
