@@ -18,6 +18,8 @@
 
 ## Health Care Ethics
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eRPeU1DYOWA?si=8g1RL8bQTjRwctz5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### 10.1 Describe basic topics and methods of bioethics.
 
 ##### 10.2 Discuss the philosophical complexity of "health".
