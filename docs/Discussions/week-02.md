@@ -54,7 +54,7 @@ comments: true
 
 ## Language and Syntax
 
-We can make arguments formal. Last week, the chapter introduced us to formal argument methods and some argument fallacies. Some of these included **begging the question/circular argument**, ** ad hominem**, **arguments from analogy**.
+We can make arguments formal. Last week, the chapter introduced us to formal argument methods and some argument fallacies. Some of these included **begging the question/circular argument**, **ad hominem**, **arguments from analogy**.
 
 #### ONLY read pages 1--6!
 
