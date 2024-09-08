@@ -56,6 +56,8 @@ comments: true
 
 We can make arguments formal. Last week, the chapter introduced us to formal argument methods and some argument fallacies. Some of these included **begging the question/circular argument**, ** ad hominem**, **arguments from analogy**.
 
+#### ONLY read pages 1--6!
+
 <iframe src="https://drive.google.com/file/d/1MfE5l48RR-0vgZcj8Yv4aN-7QHmAjbkQ/preview" width="800" height="1000" allow="autoplay"></iframe>
 
 ## Review Exercises
