@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: "PHI 240 Ethics (Contemporary Moral Problems)"
-site_url: https://lccc-phi-240-course-website.netlify.app/
+site_url: https://github.com/montaque-reynolds/montaque-reynolds.github.io
 repo_url: https://github.com/montaque-reynolds/montaque-reynolds.github.io
 theme:
   features:
