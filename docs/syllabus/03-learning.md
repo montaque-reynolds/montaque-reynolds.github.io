@@ -1,5 +1,9 @@
 # Course Outcomes, Objectives, and Competencies {-}
 
+## Course Discussion and Reading Schedule
+
+The course reading and discussion schedule is posted on the course website (https://lccc-phi-240-course-website.netlify.app/discussions/week-01) under the *"Discussions"* tab. The headings each pertain to a chapter in the required course book.
+
 ## Outcomes {-}
 
 Students will be able to analyze written, oral, auditory, and visual messages and their implications in order to communicate effectively with a clear understanding
