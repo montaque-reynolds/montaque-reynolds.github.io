@@ -6,6 +6,21 @@ output:
 
 # Week 3 - Ethical Relativism
 
+## LOs
+
+1. Describe the difference between desscriptive relativism and metaethical relativism.
+2. Evaluate key concepts such as objectivism, subjectivism, nihilism, skepticism, and moral realism.
+3. Evaluate the arguments in favor of relativism.
+4. Evaluate the arguments against relativism.
+5. Differentiate between relativism and a commitment to tolerance.
+6. Evaluate value pluralism.
+7. Defend your own ideas about relativism and how it is related to ethical judgments.
+
+Remember to interpret these as a question, i.e.,:
+
+* Original: Describe the difference between desscriptive relativism and metaethical relativism.
+* Reinterpretation: What is a key difference between descriptive relativism and metaethical relativism?
+
 ## Ethical Relativism
 
 * Descriptive versus Metaethical Ethical Relativism
