@@ -6,6 +6,10 @@ output:
 
 # Week 4 - Egoism, Altruism, and the Social Contract
 
+Instead of the typical LO questions, I want you to play the game that is below. Record your responses, for instance, say what the scenario was (homeless drug addict vs. millionaire etc). After each scenario, there is a blurb that displays below saying the number of people who also made the same or alternate choice as you. Make sure that you also record this in your homework response.
+
+<embed type="text/html" src="https://trolleyproblem.io/" width="800" height="800">
+
 ### Empathy, Compassion, and Love
 ### The Debate about Egoism and Altruism
 
