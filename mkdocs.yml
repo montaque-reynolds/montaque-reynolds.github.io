@@ -39,6 +39,9 @@ theme:
 
 plugins:
   - search
+  - bibtex:
+      bib_file: "/home/redapemusic35/data_storage/mkdocs.bib"
+      csl_file: "/home/redapemusic35/data_storage/chicago-fullnote-bibliography-with-ibid.csl"
   - social
   - offline
   - git-revision-date-localized:
