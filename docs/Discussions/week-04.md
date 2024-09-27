@@ -46,7 +46,7 @@ What about **nepotism** and employment? Do we have obligations to family members
   * Altruism breeds dependency and undermines the self-esteem of those who receive benefits and gifts from do-gooder altruists.
 * Is Ethical Egoism a Good Theory?
 
-##### Who is @rand64?
+##### Ayn Rand
 
 ![](./rand-objectivist-ethics.png)
 
@@ -95,7 +95,7 @@ Which is **reciprocal altruism** associated with?
 
 ## Review Exercises
 
-@niet03 offers what many assume to be a criticism of altruism. It is actually one of the more significant criticisms of altruism in philosophical literature. One of the more nuanced and complex arguments.
+Friedrich Nietzsche offers what many assume to be a criticism of altruism. It is actually one of the more significant criticisms of altruism in philosophical literature. One of the more nuanced and complex arguments.
 
 ### First he takes issue with what he calls conflict betweens instinct of self preservation and selfishness, and our more pro-social emotions.
 
