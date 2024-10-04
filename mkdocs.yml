@@ -40,7 +40,7 @@ theme:
 plugins:
   - search
   - bibtex:
-      bib_file: "./mkdocs.bib"
+      bib_file: "mkdocs.bib"
       #csl_file: "/home/redapemusic35/data_storage/chicago-fullnote-bibliography-with-ibid.csl"
   - social
   - offline
@@ -61,6 +61,7 @@ markdown_extensions:
   - footnotes
 
 # Python Markdown Extensions
+  - mdx_math
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -81,6 +82,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 extra:
   analytics:
