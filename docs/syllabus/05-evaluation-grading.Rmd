@@ -20,9 +20,9 @@ Then look at the course grading scale and this will tell you what letter grade y
 
 ```{r, echo=FALSE}
 points <- data.frame(
-  Assignment = c("Participation", "Discussion Preps", "Problem Labs", "Problem Collaboration", "Final Project"),
-  Points = c("50 pts", "4 pts", "10 pts", "35 pts", "410 pts"),
-  Quantity = c("x2", "x15", "x5", "x8", "x1"),
+  Assignment = c("Participation", "Weekly Discussion Preps", "Mini Argument", "Problem Collaboration", "Final Project"),
+  Points = c("10 pts", "6 pts", "30 pts", "35 pts", "410 pts"),
+  Quantity = c("x10", "x15", "x5", "x8", "x1"),
   Total = c("100 pts", "60 pts", "150 pts", "280 pts", "410 pts"),
   Percent = c("10%", "6%", "15%", "28%", "41%"),
   stringsAsFactors = FALSE
