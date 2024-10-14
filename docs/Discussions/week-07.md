@@ -11,3 +11,7 @@
 ##### 7.5 Clarify how natural law arguments are grounded in claims about the essence of human natural that resist relativism.
 
 ##### 7.6 Defend your own thesis with regard to the value of natural law theory and the idea of human rights.
+
+## Natural Law and Aquinas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_UfYY7aWKo?si=K1vuI5jUrYcrvAsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -86,13 +86,44 @@ It will most likely be very helpful for you to read the whole chapter. What this
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmhiibdwznQ?si=u1VIo4QQRGjKkFhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Some Important Case Studies
+
+Leviticus 18: 21
+
+> ![Leviticus 18:21](lev-18-21.png)
+
+and
+
+Genesis 22:2
+
+> ![Genesis 22:2](genesis-22-2.png)
+
 ## Learning Outcomes
 
 ##### 6.1 Explain how deontology is a non-consequentialist approach to ethics.
 
+First, consider a highlevel conceptual approach to philosophical questions:
+
+```mermaid
+graph TD;
+    Ethics-->Consequentialism;
+    Ethics-->Deontology;
+    Consequentialism-->Utilitarianism;
+    Consequentialism-->Perfectionism;
+```
+
 ##### 6.2 Describe different deontological approaches to ethics.
 
+```mermaid
+
+graph TD;
+    Deontology-->Rossian-Deontology;
+    Deontology-->Contratualism;
+    Deontology-->Kantian-Deontology;
+```
+
 ##### 6.3 Explain the difference between hypothetical and categorical imperatives.
+
 
 ##### 6.4 Describe two formulations of the categorical imperative.
 
@@ -101,5 +132,6 @@ It will most likely be very helpful for you to read the whole chapter. What this
 ##### 6.6 Evaluate the difference between perfect and imperfect duties.
 
 ##### 6.7 Defend your own thesis with regard to the value of deontological ethics.
+
 
 \bibliography
