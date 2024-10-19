@@ -1,5 +1,19 @@
 # Week 7 - Natural Law and Human Rights
 
+<style>
+.button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+</style>
+
+
 ```mermaid
 
 graph TD;
@@ -57,7 +71,7 @@ Imagine borrowing money with the intent of not paying it back. By doing so, you 
 
 > The point is rather that NL theorists believe that our thinking about ethics gets off on the wrong foot if we try to identify principles of right and wrong independently of truths concerning what is good, i.e., what is worth having or seeking. NL theorists regard claims about what is good as the most basic truths concerning the moral life.
 
-<a href="./Natural Law Ethics 12-29-14 copy.pdf" target="_blank"><button class="button">Charles Layman, handout, download [here]</button></a>
+Charles Layman, handout <a href="./Natural Law Ethics 12-29-14 copy.pdf" target="_blank"><button class="button">[here]</button></a>
 
 * What do human beings need to flourish? I.e., what is good for humans?
   * life
@@ -68,11 +82,7 @@ Imagine borrowing money with the intent of not paying it back. By doing so, you 
   * beauty
   * pleasure
 
-3. The Most Important Moral Truths are Knowable by Us
-
-* What about moral skepticism? (E.g., non-cognitivism)
-
-* Question about capacity, but need moral education. Therefore moral education is a good.
+The Most Important Moral Truths are Knowable by Us. But what about moral skepticism or moral disagreement? (E.g., non-cognitivism). This is a question about one's capacity and knowledge, or inability to reason moral truths. Such a person merely needs moral education. Therefore moral education is a good.
 
 > However, the prosecution argued successfully that even if the experiments did not violate the defendant's own laws, they were still crimes against humanity. The idea was that there was a law more basic than civil laws exists---a moral law---and these doctors and others should have known what this basic moral law required. [@fial24, 148]
 
