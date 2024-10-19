@@ -19,10 +19,6 @@
 graph TD;
     Ethics-->Consequentialism;
     Ethics-->Deontology;
-```
-
-```mermaid
-
     Deontology-->Kant;
     Deontology-->DCT;
     Deontology-->NLT;
