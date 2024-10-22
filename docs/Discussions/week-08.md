@@ -16,11 +16,11 @@
 
 # The Good Life
 
-I have found it difficult to explain to a seven year old why he shouldn't kill mobs in minecraft. Although this particular seven year-old will refrain from killing mobs in minecraft because he trusts my judgement, and so that when I say "don't kill mobs", he will generally say "okay, I won't, but why?" This is where I find it difficult to come up with a reason that seems satisfying. Consider deontology: do not kill mobs in minecraft because doing so will be treating them as an object. Well, they are objects aren't they? Consequentialists might point out that we are not hurting anyone. A natural law theorist? Is there a law giver, evolution, natural selection or God that would care? Would God care? Why?
+I have found it difficult to explain to a seven year old why he shouldn't kill mobs in minecraft. Although this particular seven year-old will refrain from killing mobs in Minecraft because he trusts my judgement, and so that when I say "don't kill mobs", he will generally say "okay, I won't, but why?" This is where I find it difficult to come up with a reason that seems satisfying to myself. Consider deontology: do not kill mobs in minecraft because doing so will be treating them as an object. Well, they are objects aren't they? Consequentialists might point out that we are not hurting anyone. A natural law theorist? Is there a law giver, evolution, natural selection or God that would care? Would God care? Why? Is there are question about natural selection that would preclude the adaptive fitness of individuals who kill mobs in Minecraft? If so, it is not obvious.
 
 ## Virtue as a human excellence
 
-According to Martha @nuss01, the ancient Greeks were obsessed with the worry that what makes a human life good, has nothing to do with the human, and everything to do with luck. It is important to point out that when we say "what makes a human life good", what we mean is what makes it worthy of praise, or admiration.
+According to Martha Nussbaum[@nuss86] the ancient Greeks were obsessed with the worry that what makes a human life good, has nothing to do with the human, and everything to do with luck. It is important to point out that when we say "what makes a human life good", what we mean is what makes it worthy of praise, or admiration.
 
 There are two questions here:
 
@@ -73,7 +73,7 @@ What have we learned?
 
 But this was an over-ambitious attempt to eliminate luck from human life.
 
-* This shows the importance of human value, *rational choice*. [*tuch$\'{e}$]
+* This shows the importance of human value, *rational choice*. [*tuch$\hat{e}$*]
 
 ## Plato: Goodness without fragility
 
@@ -119,7 +119,7 @@ A: Being invulnerable to luck by quarantining ourselves from irrational attachme
 
 ## The Speech of Alcibiades: a reading of the symposium
 
-> I believe that a deep understanding of the *Symposium* will be one that regards it not as a work that ignores the pre-philosophical understanding of *er$\-{0}$s*, but as one that is all about that understanding, and also about why it must be purged and transcended, why Diotima has to come once again to save Athens from a plague. [@nuss01, 167]
+> I believe that a deep understanding of the *Symposium* will be one that regards it not as a work that ignores the pre-philosophical understanding of *er$\acute{o}$s*, but as one that is all about that understanding, and also about why it must be purged and transcended, why Diotima has to come once again to save Athens from a plague. [@nuss86, 167]
 
 How?
 
@@ -135,7 +135,7 @@ Which is:
 
 But the *Symposium* shows us that desire does have an important function, which is to not only move us towards the good, but guide us as well. (As defended in *The Phaedrus*)
 
-> . . . in people of good nature and training, the sensual and appetitive response is linked with, and arouses, complicated emotikons of fear, awe, and respect, which themselves develop and educate the personality as a whole, making it both more discriminating and more receptive. [@nuss01, 215]
+> . . . in people of good nature and training, the sensual and appetitive response is linked with, and arouses, complicated emotikons of fear, awe, and respect, which themselves develop and educate the personality as a whole, making it both more discriminating and more receptive. [@nuss86, 215]
 
 To be moved towards beauty:
 
