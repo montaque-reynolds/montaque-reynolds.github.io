@@ -1,5 +1,9 @@
 # Week 10, Health Care Ethics
 
+Should we prioritize national health over national liberty? What is national health anyway? People die every day, what obligations does the government have in preventing such deaths? Do these obligations justify government infringement on liberty? What about private industry? Can a social media platform shame its users into receiving a vaccine, say by requiring that they submit vaccine documents in order to use that platform?
+
+Should a health care facility be allowed to deny adequate health treatment, say conducting an ultrasound when a patient complains about fear in her uterus, for fear of running afoul of an anti-abortion law? Is health an individual obligation or institutional one?
+
 ##### Describe basic topics and methods of studying bioethics
 
 ##### Discuss the philospohical complexity of "health".
