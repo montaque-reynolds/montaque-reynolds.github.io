@@ -75,11 +75,11 @@ Meeting the needs of particular others under one's care
 * Children
 * Aging Parents
 
-Is there are normative standard for who takes care of the personal needs in a home, among family members?
+Is there a normative standard for who takes care of the personal needs in a home, among family members? Is there a practical one?
 
 Carol Gilligan:
 
-Men and Women have different kinds of ethics. Women reason more relationally, men more abstractly, conceptual notions of moral terms etc.
+Men and Women have different kinds of ethics. Women reason more relationally, men more abstractly, conceptual notions of moral terms etc. But is this as a result of social conditioning? It is likely. What about socially assigned gender roles, are there normative or practical constraints for assigning such?
 
 Table 9-1
 =========

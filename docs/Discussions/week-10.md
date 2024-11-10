@@ -1,15 +1,23 @@
-# Week 10 - Abortion and Euthanasia
+# Health Care Ethics
 
-##### 11.1 Explain the conflict between pro-life and pro-choice points of view.
+##### Describe basic topics and methods of studying bioethics
 
-##### 11.2 Evaluate moral and ontological issues involved in thinking about abortion.
+##### Discuss the philospohical complexity of "health".
 
-##### 11.3 Evaluate the application of moral theory to different kinds of euthanasia.
+##### Describe how basic principles of bioethics show up in codes and institutions.
 
-##### 11.4 Explain social justice and feminist concerns that arise in thinking about abortion and euthanasia concerns.
+##### Explain how autonomy applies in thinking about advance directives and paternalism.
 
-##### 11.5 Summarize the legal issue in the United States about the right to privacy.
+##### Explain how beneficence might be applied in evaluating cosmetic surgery.
 
-##### 11.6 Analyze how double effect reasoning might apply in thinking about abortion and euthanasia.
+##### Evaluate the opioid epidemic using the concept of non-maleficence.
 
-##### 11.7 Defend a thesis about abortion and euthanasia.
+##### Apply the concept of justice to the problem of rationing health care.
+
+##### Defend a thesis about the right to health care.
+
+##### Critically evaluate ethical issues involved in the COVID-19 pandemic.
+
+
+
+
