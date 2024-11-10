@@ -1,4 +1,4 @@
-# Health Care Ethics
+# Week 10, Health Care Ethics
 
 ##### Describe basic topics and methods of studying bioethics
 
