@@ -16,7 +16,6 @@
 }
 </style>
 
-
 ##### 12.1 Explain how the difference between a therapy and an enhancement can be used to assess different examples of biotechnology and bioengineering.
 
 ##### 12.2 Describe the conflict between bio-conservativism and transhumanism.
