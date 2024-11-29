@@ -18,7 +18,7 @@
 
 ##### 12.1 Explain how the difference between a therapy and an enhancement can be used to assess different examples of biotechnology and bioengineering.
 
-##### 12.2 Describe the conflict between bio-conservativism and transhumanism.
+##### 12.2 Describe the conflict between bio-conservatism and transhumanism.
 
 ##### 12.3 Critically evaluate ethical problems involving performance-enhancing drugs.
 
@@ -39,5 +39,13 @@ The articles linked here are some explorations and considerations regarding whet
 <a href="https://www.theatlantic.com/facebook-instant/article/616928/" target="_blank"><button class="button">The Last Children of Down Syndrome: Prenatal testing is changing who gets born and who doesn’t. This is just the beginning.</button></a>
 
 <a href="./resources/www.theatlantic.com.pdf" target="_blank"><button class="button">Download the above here.</button></a>
+
+You can download the article here:
+
+<a href="https://anatomypubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ar.24849" target="_blank"><button class="button">You can't keep a bad idea down: Dark history, death,and potential rebirth of eugenics.</button></a>
+
+You can download the article here:
+
+<a href="./resources/recurring-bad-ideas.pdf" target="_blank"><button class="button">Download the above here.</button></a>
 
 
