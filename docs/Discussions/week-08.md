@@ -2,6 +2,44 @@
 
 ##### 8.1 Explain how virtue ethics differs from other approaches to ethics.
 
+P. i. An action is right iff it is in accordance with a moral rule or prin-
+ciple.
+
+P.2. A moral rule is one that ...
+
+(i) is laid on us by God
+
+or
+
+(ii) is required by natural law.
+
+(iii) is laid on us by reason
+
+or
+
+(iv) is required by rationality
+
+or
+
+(v) would command universal rational acceptance
+
+or
+
+(vi) would be the object of choice of all rational beings
+
+Act-utilitarianism begins with a premise that
+of right action:
+
+P. i. An action is right iff it promotes the best consequences
+
+P. i. An action is right iff it is what a virtuous agent would do in the
+circumstances.'
+
+P. i a. A virtuous agent is one who acts virtuously, that is, one who has and exercises the virtues.
+
+P. 2. A virtue is a character trait a human being needs to flourish or live well.
+
+
 ##### 8.2 Describe some key virtues and apply them to concrete situations.
 
 ##### 8.3 Explain how the idea of the golden mean functions in virtue ethics.
