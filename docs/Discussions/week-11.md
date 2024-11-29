@@ -48,4 +48,12 @@ You can download the article here:
 
 <a href="./resources/recurring-bad-ideas.pdf" target="_blank"><button class="button">Download the above here.</button></a>
 
+## Nick Bostrom defenses of transhumanism
+
+<a href="https://nickbostrom.com/ethics/genetic" target="_blank"><button class="button">Human Genetic Enhancements: A Transhumanist Perspective.</button></a>
+
+<a href="https://nickbostrom.com/ethics/dignity." target="_blank"><button class="button">In Defense of Posthuman Dignity.</button></a>
+
+
+
 
